@@ -1,3 +1,4 @@
-A project to determine features that drive comment engagement on Reddit posts
+# Reddit Comment Engagement Exploration
+Determining features that drive comment engagement on Reddit posts
 
-See https://tucker-allen.github.io/Reddit_Comment_blog/ for blog post
+See blog post here: https://tucker-allen.github.io/Reddit_Comment_blog/
